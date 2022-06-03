@@ -13,9 +13,9 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/elastigroup/providers/aws"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/elastigroup_aws_beanstalk"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/elastigroup_aws_beanstalk_scheduled_task"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/elastigroup_aws_beanstalk"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/elastigroup_aws_beanstalk_scheduled_task"
 )
 
 func resourceSpotinstElastigroupAWSBeanstalk() *schema.Resource {

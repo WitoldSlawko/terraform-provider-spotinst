@@ -1,6 +1,6 @@
 package elastigroup_azure_launch_configuration
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	Prefix = "azure_launch_configuration_"

@@ -13,8 +13,8 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/healthcheck"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/health_check"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/health_check"
 )
 
 func resourceSpotinstHealthCheck() *schema.Resource {

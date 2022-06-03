@@ -1,6 +1,6 @@
 package mrscaler_aws_terminationPolicies
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	TerminationPolicies commons.FieldName = "termination_policies"

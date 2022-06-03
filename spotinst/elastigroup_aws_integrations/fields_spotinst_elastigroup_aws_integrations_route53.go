@@ -4,7 +4,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/spotinst/spotinst-sdk-go/service/elastigroup/providers/aws"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 )
 
 func SetupRoute53(fieldsMap map[commons.FieldName]*commons.GenericField) {

@@ -3,7 +3,7 @@ package elastigroup_aws_integrations
 import (
 	"github.com/spotinst/spotinst-sdk-go/service/elastigroup/providers/aws"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 )
 
 func Setup(fieldsMap map[commons.FieldName]*commons.GenericField) {

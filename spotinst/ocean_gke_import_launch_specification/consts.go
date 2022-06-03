@@ -1,6 +1,6 @@
 package ocean_gke_import_launch_specification
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	RootVolumeType commons.FieldName = "root_volume_type"

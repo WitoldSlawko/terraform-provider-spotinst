@@ -1,6 +1,6 @@
 package ocean_aks
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	ACDIdentifier        commons.FieldName = "acd_identifier"

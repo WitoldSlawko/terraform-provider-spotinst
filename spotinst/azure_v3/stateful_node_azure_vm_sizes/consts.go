@@ -1,6 +1,6 @@
 package stateful_node_azure_vm_sizes
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	OnDemandSizes      commons.FieldName = "od_sizes"

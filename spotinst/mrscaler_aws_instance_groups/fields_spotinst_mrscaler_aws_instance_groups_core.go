@@ -6,8 +6,8 @@ import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/spotinst/spotinst-sdk-go/service/mrscaler"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/mrscaler_aws_strategy"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/mrscaler_aws_strategy"
 )
 
 func SetupCoreGroup(fieldsMap map[commons.FieldName]*commons.GenericField) {

@@ -1,6 +1,6 @@
 package ocean_aks_virtual_node_group
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	OceanID commons.FieldName = "ocean_id"

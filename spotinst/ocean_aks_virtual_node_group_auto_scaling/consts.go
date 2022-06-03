@@ -1,6 +1,6 @@
 package ocean_aks_virtual_node_group_auto_scaling
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	Autoscale              commons.FieldName = "autoscale"

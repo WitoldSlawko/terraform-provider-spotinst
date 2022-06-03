@@ -1,6 +1,6 @@
 package managed_instance_healthcheck
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	HealthCheckType   commons.FieldName = "health_check_type"

@@ -1,7 +1,7 @@
 package stateful_node_azure_network
 
 import (
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 )
 
 //Network

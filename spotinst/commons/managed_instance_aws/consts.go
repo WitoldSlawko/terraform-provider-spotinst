@@ -1,6 +1,6 @@
 package managed_instance_aws
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	Name        commons.FieldName = "name"

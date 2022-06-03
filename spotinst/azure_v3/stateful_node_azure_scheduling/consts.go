@@ -1,6 +1,6 @@
 package stateful_node_azure_scheduling
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	SchedulingTask commons.FieldName = "scheduling_task"

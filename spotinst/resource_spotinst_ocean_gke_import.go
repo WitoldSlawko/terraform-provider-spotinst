@@ -12,12 +12,12 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/ocean/providers/gcp"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_gke_import"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_gke_import_autoscaler"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_gke_import_launch_specification"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_gke_import_scheduling"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_gke_import_strategy"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_import"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_import_autoscaler"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_import_launch_specification"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_import_scheduling"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_import_strategy"
 )
 
 func resourceSpotinstOceanGKEImport() *schema.Resource {

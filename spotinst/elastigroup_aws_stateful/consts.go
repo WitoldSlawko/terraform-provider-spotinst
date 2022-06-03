@@ -1,6 +1,6 @@
 package elastigroup_aws_stateful
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	PersistRootDevice   commons.FieldName = "persist_root_device"

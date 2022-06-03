@@ -1,6 +1,6 @@
 package ocean_gke
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	Name                commons.FieldName = "name"

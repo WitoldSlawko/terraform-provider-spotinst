@@ -12,14 +12,14 @@ import (
 	v3 "github.com/spotinst/spotinst-sdk-go/service/elastigroup/providers/azure/v3"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/azure_v3/elastigroup_azure"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/azure_v3/elastigroup_azure_image"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/azure_v3/elastigroup_azure_launchspecification"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/azure_v3/elastigroup_azure_login"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/azure_v3/elastigroup_azure_network"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/azure_v3/elastigroup_azure_strategy"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/azure_v3/elastigroup_azure_vm_sizes"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/azure_v3/elastigroup_azure"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/azure_v3/elastigroup_azure_image"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/azure_v3/elastigroup_azure_launchspecification"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/azure_v3/elastigroup_azure_login"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/azure_v3/elastigroup_azure_network"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/azure_v3/elastigroup_azure_strategy"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/azure_v3/elastigroup_azure_vm_sizes"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 )
 
 func resourceSpotinstElastigroupAzureV3() *schema.Resource {

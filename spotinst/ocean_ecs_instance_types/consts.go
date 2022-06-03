@@ -1,6 +1,6 @@
 package ocean_ecs_instance_types
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	InstanceTypes commons.FieldName = "instance_types"

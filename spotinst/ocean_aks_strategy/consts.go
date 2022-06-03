@@ -1,7 +1,7 @@
 package ocean_aks_strategy
 
 import (
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 )
 
 const (

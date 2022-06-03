@@ -1,6 +1,6 @@
 package elastigroup_gcp_disk
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	Disk             commons.FieldName = "disk"

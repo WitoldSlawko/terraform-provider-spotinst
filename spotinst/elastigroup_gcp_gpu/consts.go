@@ -1,6 +1,6 @@
 package elastigroup_gcp_gpu
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	GPU   commons.FieldName = "gpu"

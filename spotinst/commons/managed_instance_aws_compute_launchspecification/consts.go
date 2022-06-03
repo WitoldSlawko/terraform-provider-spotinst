@@ -1,6 +1,6 @@
 package managed_instance_aws_compute_launchspecification
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 type TagField string
 

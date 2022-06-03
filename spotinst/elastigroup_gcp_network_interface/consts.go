@@ -1,6 +1,6 @@
 package elastigroup_gcp_network_interface
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	NetworkInterface commons.FieldName = "network_interface"

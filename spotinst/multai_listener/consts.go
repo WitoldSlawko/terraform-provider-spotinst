@@ -1,6 +1,6 @@
 package multai_listener
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	BalancerID commons.FieldName = "balancer_id"

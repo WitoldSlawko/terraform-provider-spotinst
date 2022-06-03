@@ -1,6 +1,6 @@
 package ocean_aws_launch_configuration
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	ImageID                  commons.FieldName = "image_id"

@@ -9,22 +9,22 @@ import (
 	"strings"
 	"time"
 
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_ecs_optimize_images"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_optimize_images"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/spotinst/spotinst-sdk-go/service/ocean/providers/aws"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_aws"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_ecs"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_ecs_autoscaler"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_ecs_instance_types"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_ecs_launch_specification"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_ecs_logging"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_ecs_scheduling"
-	"github.com/spotinst/terraform-provider-spotinst/spotinst/ocean_ecs_strategy"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aws"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_autoscaler"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_instance_types"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_launch_specification"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_logging"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_scheduling"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_strategy"
 )
 
 func resourceSpotinstOceanECS() *schema.Resource {

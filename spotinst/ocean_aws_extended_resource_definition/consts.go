@@ -1,6 +1,6 @@
 package ocean_aws_extended_resource_definition
 
-import "github.com/spotinst/terraform-provider-spotinst/spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
 
 const (
 	ExtendedResourceName commons.FieldName = "name"
