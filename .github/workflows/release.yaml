@@ -5,6 +5,9 @@ on:
     tags:
       - 'v*'
 
+env:
+  GPG_TTY: $(tty)
+
 jobs:
   goreleaser:
     runs-on: ubuntu-latest

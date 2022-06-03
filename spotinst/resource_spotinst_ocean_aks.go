@@ -252,8 +252,8 @@ func importAKSCluster(resourceData *schema.ResourceData, spotinstClient *Client)
 	var cluster *azure.Cluster
 	err := resource.RetryContext(context.Background(), time.Hour, func() *resource.RetryError {
 		input := &azure.ImportClusterInput{
-			ACDIdentifier: spotinst.String(resourceData.Get("acd_identifier").(string)),
 			Cluster: &azure.ImportCluster{
+				ACDIdentifier: spotinst.String(resourceData.Get("acd_identifier").(string)),
 				Name: spotinst.String(resourceData.Get("name").(string)),
 				AKS: &azure.AKS{
 					Name:              spotinst.String(resourceData.Get("aks_name").(string)),

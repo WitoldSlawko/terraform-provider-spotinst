@@ -60,3 +60,8 @@ changelog:
 
 release:
   draft: true
+  disable: false
+  github:
+    owner: WitoldSlawko
+    name: terraform-provider-spotinst
+
