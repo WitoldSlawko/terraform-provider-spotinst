@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_optimize_images"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/ocean_ecs_optimize_images"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
