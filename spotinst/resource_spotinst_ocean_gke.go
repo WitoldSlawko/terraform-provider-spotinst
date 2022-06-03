@@ -13,11 +13,11 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
 	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
-	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke"
-	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_auto_scaling"
-	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_instance_types"
-	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_network_interface"
-	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_strategy"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/ocean_gke"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/ocean_gke_auto_scaling"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/ocean_gke_instance_types"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/ocean_gke_network_interface"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/ocean_gke_strategy"
 )
 
 func resourceSpotinstOceanGKE() *schema.Resource {

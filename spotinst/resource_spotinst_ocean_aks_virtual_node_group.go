@@ -11,9 +11,9 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
 	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
-	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aks_virtual_node_group"
-	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aks_virtual_node_group_auto_scaling"
-	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aks_virtual_node_group_launch_specification"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/ocean_aks_virtual_node_group"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/ocean_aks_virtual_node_group_auto_scaling"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/ocean_aks_virtual_node_group_launch_specification"
 )
 
 func resourceSpotinstOceanAKSVirtualNodeGroup() *schema.Resource {

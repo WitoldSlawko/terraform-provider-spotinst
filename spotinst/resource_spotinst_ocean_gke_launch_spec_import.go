@@ -11,7 +11,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
 	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
-	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_launch_spec_import"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/ocean_gke_launch_spec_import"
 )
 
 func resourceSpotinstOceanGKELaunchSpecImport() *schema.Resource {

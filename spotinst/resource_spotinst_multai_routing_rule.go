@@ -12,7 +12,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/multai"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
-	"github.com/WitoldSlawko/terraform-provider-spotinst/multai_routing_rule"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/multai_routing_rule"
 )
 
 func resourceSpotinstMultaiRoutingRule() *schema.Resource {

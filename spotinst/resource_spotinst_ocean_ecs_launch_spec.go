@@ -14,7 +14,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
 	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
-	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_launch_spec"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/ocean_ecs_launch_spec"
 )
 
 func resourceSpotinstOceanECSLaunchSpec() *schema.Resource {
