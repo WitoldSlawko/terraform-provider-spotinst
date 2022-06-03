@@ -20,7 +20,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/spotinst/featureflag"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/log"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/session"
-	"github.com/spotinst/terraform-provider-spotinst/version"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/version"
 	stdlog "log"
 	"strings"
 )

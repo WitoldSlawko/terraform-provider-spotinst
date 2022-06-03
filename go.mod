@@ -1,4 +1,4 @@
-module github.com/spotinst/terraform-provider-spotinst
+module github.com/WitoldSlawko/terraform-provider-spotinst
 
 go 1.16
 
