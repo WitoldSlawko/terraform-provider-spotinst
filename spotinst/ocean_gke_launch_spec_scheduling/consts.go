@@ -1,6 +1,6 @@
 package ocean_gke_launch_spec_scheduling
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const (
 	SchedulingTask commons.FieldName = "scheduling_task"

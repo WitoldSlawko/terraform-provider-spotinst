@@ -1,6 +1,6 @@
 package ocean_aws_scheduling
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const (
 	ScheduledTask          commons.FieldName = "scheduled_task"

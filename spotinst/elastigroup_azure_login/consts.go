@@ -1,6 +1,6 @@
 package elastigroup_azure_login
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const (
 	Prefix = "azure_login_"

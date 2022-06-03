@@ -13,14 +13,14 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/ocean/providers/aws"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_aws"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_aws_auto_scaling"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_aws_instance_types"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_aws_launch_configuration"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_aws_logging"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_aws_scheduling"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_aws_strategy"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aws"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aws_auto_scaling"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aws_instance_types"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aws_launch_configuration"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aws_logging"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aws_scheduling"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aws_strategy"
 )
 
 func resourceSpotinstOceanAWS() *schema.Resource {

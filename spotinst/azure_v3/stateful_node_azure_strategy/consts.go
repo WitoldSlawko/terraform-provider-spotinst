@@ -1,6 +1,6 @@
 package stateful_node_azure_strategy
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const (
 	Strategy            commons.FieldName = "strategy"

@@ -9,8 +9,8 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/dataintegration/providers/aws"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/dataintegration"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/dataintegration"
 	"log"
 	"time"
 )

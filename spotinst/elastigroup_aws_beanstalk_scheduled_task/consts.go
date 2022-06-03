@@ -1,6 +1,6 @@
 package elastigroup_aws_beanstalk_scheduled_task
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const TaskTypeStatefulUpdateCapacity = "statefulUpdateCapacity"
 

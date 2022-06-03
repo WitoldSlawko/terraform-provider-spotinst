@@ -11,7 +11,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/elastigroup/providers/aws"
 	"github.com/spotinst/spotinst-sdk-go/service/subscription"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 )
 
 func createSubscriptionResourceName(name string) string {

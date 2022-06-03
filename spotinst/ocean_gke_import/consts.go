@@ -1,6 +1,6 @@
 package ocean_gke_import
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const (
 	ClusterName         commons.FieldName = "cluster_name"

@@ -1,6 +1,6 @@
 package stateful_node_azure_launch_spec
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 // LaunchSpec
 const (

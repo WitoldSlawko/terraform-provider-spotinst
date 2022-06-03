@@ -1,6 +1,6 @@
 package ocean_ecs_launch_specification
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const (
 	SecurityGroupIds         commons.FieldName = "security_group_ids"

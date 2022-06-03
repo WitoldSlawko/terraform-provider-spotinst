@@ -1,6 +1,6 @@
 package ocean_aks_virtual_node_group_launch_specification
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const (
 	LaunchSpecification commons.FieldName = "launch_specification"

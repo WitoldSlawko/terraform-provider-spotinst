@@ -8,8 +8,8 @@ import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/spotinst/spotinst-sdk-go/service/mrscaler"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/mrscaler_aws_strategy"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/mrscaler_aws_strategy"
 )
 
 func Setup(fieldsMap map[commons.FieldName]*commons.GenericField) {

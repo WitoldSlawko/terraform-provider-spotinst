@@ -1,6 +1,6 @@
 package managed_instance_aws_compute
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const (
 	SubnetIDs commons.FieldName = "subnet_ids"

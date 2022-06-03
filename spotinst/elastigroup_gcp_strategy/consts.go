@@ -1,6 +1,6 @@
 package elastigroup_gcp_strategy
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const (
 	PreemptiblePercentage commons.FieldName = "preemptible_percentage"

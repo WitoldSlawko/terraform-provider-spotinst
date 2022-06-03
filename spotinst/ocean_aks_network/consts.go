@@ -1,6 +1,6 @@
 package ocean_aks_network
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const (
 	Network            commons.FieldName = "network"

@@ -1,6 +1,6 @@
 package ocean_ecs_strategy
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const (
 	DrainingTimeout          commons.FieldName = "draining_timeout"

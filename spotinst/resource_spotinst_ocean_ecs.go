@@ -9,22 +9,22 @@ import (
 	"strings"
 	"time"
 
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_ecs_optimize_images"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_optimize_images"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/spotinst/spotinst-sdk-go/service/ocean/providers/aws"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_aws"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_ecs"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_ecs_autoscaler"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_ecs_instance_types"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_ecs_launch_specification"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_ecs_logging"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_ecs_scheduling"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_ecs_strategy"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aws"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_autoscaler"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_instance_types"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_launch_specification"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_logging"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_scheduling"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_strategy"
 )
 
 func resourceSpotinstOceanECS() *schema.Resource {

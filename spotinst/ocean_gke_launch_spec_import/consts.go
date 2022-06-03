@@ -1,6 +1,6 @@
 package ocean_gke_launch_spec_import
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 type LabelField string
 type MetadataField string

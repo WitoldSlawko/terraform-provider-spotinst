@@ -1,6 +1,6 @@
 package elastigroup_gcp_instance_types
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
+import "github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
 
 const (
 	Prefix = "instance_types_"

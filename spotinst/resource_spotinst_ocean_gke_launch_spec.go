@@ -10,10 +10,10 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/ocean/providers/gcp"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_gke_launch_spec"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_gke_launch_spec_scheduling"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_gke_launch_spec_strategy"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/spotinst/commons"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_launch_spec"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_launch_spec_scheduling"
+	"github.com/WitoldSlawko/terraform-provider-spotinst/ocean_gke_launch_spec_strategy"
 )
 
 func resourceSpotinstOceanGKELaunchSpec() *schema.Resource {
