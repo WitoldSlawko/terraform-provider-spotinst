@@ -1,6 +1,6 @@
 package elastigroup_azure_launchspecification
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	CustomData commons.FieldName = "custom_data"

@@ -1,7 +1,7 @@
 package ocean_ecs_logging
 
 import (
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 )
 
 const (

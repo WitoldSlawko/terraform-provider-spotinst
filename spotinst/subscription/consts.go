@@ -1,6 +1,6 @@
 package subscription
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	Prefix = "subscription_"

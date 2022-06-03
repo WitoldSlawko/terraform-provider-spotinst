@@ -13,7 +13,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/ocean/providers/azure"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aks"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aks_auto_scaling"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_aks_extensions"

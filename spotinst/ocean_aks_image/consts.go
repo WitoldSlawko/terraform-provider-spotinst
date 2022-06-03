@@ -1,6 +1,6 @@
 package ocean_aks_image
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	Image commons.FieldName = "image"

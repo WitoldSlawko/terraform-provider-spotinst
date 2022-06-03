@@ -1,6 +1,6 @@
 package ocean_gke_import_autoscaler
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	Autoscaler                       commons.FieldName = "autoscaler"

@@ -1,6 +1,6 @@
 package ocean_aks_login
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	SSHPublicKey commons.FieldName = "ssh_public_key"

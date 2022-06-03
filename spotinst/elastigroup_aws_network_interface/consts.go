@@ -1,6 +1,6 @@
 package elastigroup_aws_network_interface
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	Prefix = "network_interface_"

@@ -1,6 +1,6 @@
 package managed_instance_aws_integrations
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 func Setup(fieldsMap map[commons.FieldName]*commons.GenericField) {
 	SetupRoute53(fieldsMap)

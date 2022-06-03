@@ -13,7 +13,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/elastigroup/providers/azure"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/elastigroup_azure"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/elastigroup_azure_health_check"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/elastigroup_azure_image"

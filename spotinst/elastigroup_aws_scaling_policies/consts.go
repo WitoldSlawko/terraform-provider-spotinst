@@ -1,6 +1,6 @@
 package elastigroup_aws_scaling_policies
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 type DimensionField string
 

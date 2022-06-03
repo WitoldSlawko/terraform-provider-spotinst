@@ -1,7 +1,7 @@
 package stateful_node_azure_image
 
 import (
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 )
 
 const (

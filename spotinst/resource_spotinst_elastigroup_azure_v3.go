@@ -19,7 +19,7 @@ import (
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/azure_v3/elastigroup_azure_network"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/azure_v3/elastigroup_azure_strategy"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/azure_v3/elastigroup_azure_vm_sizes"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 )
 
 func resourceSpotinstElastigroupAzureV3() *schema.Resource {

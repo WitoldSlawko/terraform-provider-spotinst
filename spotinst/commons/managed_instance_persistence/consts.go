@@ -1,6 +1,6 @@
 package managed_instance_persistence
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	PersistBlockDevices commons.FieldName = "persist_block_devices"

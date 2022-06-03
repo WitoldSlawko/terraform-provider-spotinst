@@ -1,6 +1,6 @@
 package elastigroup_gcp_scheduled_task
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	ScheduledTask  commons.FieldName = "scheduled_task"

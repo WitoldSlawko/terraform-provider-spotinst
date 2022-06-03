@@ -1,6 +1,6 @@
 package stateful_node_azure_extension
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	Extension               commons.FieldName = "extension"

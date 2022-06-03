@@ -1,6 +1,6 @@
 package managed_instance_aws_compute_instance_type
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	Product       commons.FieldName = "product"

@@ -13,7 +13,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/mrscaler"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/mrscaler_aws"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/mrscaler_aws_cluster"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/mrscaler_aws_instance_groups"

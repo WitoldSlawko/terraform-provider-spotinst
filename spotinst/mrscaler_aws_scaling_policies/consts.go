@@ -1,6 +1,6 @@
 package mrscaler_aws_scaling_policies
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	TaskScalingUpPolicy   commons.FieldName = "task_scaling_up_policy"

@@ -1,6 +1,6 @@
 package mrscaler_aws_cluster
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	Cluster              commons.FieldName = "cluster"

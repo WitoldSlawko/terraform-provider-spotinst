@@ -1,6 +1,6 @@
 package ocean_ecs_optimize_images
 
-import "https://github.com/WitoldSlawko/terraform-provider-spotinst/commons"
+import "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
 const (
 	OptimizeImages       commons.FieldName = "optimize_images"
