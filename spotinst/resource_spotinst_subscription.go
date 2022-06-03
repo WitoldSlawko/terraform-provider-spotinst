@@ -11,7 +11,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
 
-	subscriptionPackage "https://github.com/WitoldSlawko/terraform-provider-spotinst/subscription"
+	subscriptionPackage "https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/subscription"
 )
 
 func resourceSpotinstSubscription() *schema.Resource {

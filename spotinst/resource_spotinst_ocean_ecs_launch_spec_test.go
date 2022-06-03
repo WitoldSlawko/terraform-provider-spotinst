@@ -12,7 +12,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/ocean/providers/aws"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/ocean_ecs_launch_specification"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/ocean_ecs_launch_specification"
 )
 
 func init() {

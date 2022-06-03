@@ -12,7 +12,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/managedinstance/providers/aws"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/elastigroup_aws_launch_configuration"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/elastigroup_aws_launch_configuration"
 )
 
 func init() {

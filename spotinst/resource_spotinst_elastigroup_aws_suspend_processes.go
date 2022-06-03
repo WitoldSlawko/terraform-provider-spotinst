@@ -13,7 +13,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/elastigroup_aws_suspend_processes"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/elastigroup_aws_suspend_processes"
 )
 
 func resourceSpotinstElastigroupSuspendProcesses() *schema.Resource {

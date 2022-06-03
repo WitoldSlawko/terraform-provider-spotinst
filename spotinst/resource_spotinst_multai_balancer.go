@@ -12,7 +12,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/multai"
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/spotinst/commons"
-	"https://github.com/WitoldSlawko/terraform-provider-spotinst/multai_balancer"
+	"https://github.com/WitoldSlawko/terraform-provider-spotinst/tree/main/multai_balancer"
 )
 
 func resourceSpotinstMultaiBalancer() *schema.Resource {
